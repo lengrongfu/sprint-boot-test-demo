@@ -1,0 +1,6 @@
+com/example/sprintboot/testdemo/mapper/StudentMapper.class
+com/example/sprintboot/testdemo/model/Student.class
+com/example/sprintboot/testdemo/service/StudentService.class
+com/example/sprintboot/testdemo/SprintBootTestDemoApplication.class
+com/example/sprintboot/testdemo/controller/StudentController.class
+com/example/sprintboot/testdemo/service/impl/StudentServiceImpl.class

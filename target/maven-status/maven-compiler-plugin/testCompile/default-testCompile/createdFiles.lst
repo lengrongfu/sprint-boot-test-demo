@@ -1,0 +1,3 @@
+com/example/sprintboot/testdemo/SprintBootTestDemoApplicationTests.class
+com/example/sprintboot/testdemo/service/impl/StudentServiceImplTest.class
+com/example/sprintboot/testdemo/mapper/StudentMapperTest.class
